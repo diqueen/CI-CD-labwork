@@ -11,12 +11,12 @@
 .
 ├── .github/
 │   └── workflows/
-│       └── main.yml      # Конфигурация GitHub Actions
+│       └── main.yml             # Конфигурация GitHub Actions
 ├── src/
-│   └── calculator.py     # Основной код калькулятора
+│   └── calculator.py            # Основной код калькулятора
 ├── tests/
-│   └── test_calculator.py # Модульные тесты
-└── requirements.txt      # Зависимости проекта
+│   └── test_calculator.py       # Модульные тесты
+└── requirements.txt             # Зависимости проекта
 ```
 
 ## Реализованная функциональность
